@@ -1,3 +1,6 @@
+# my .gitignore
+*.sh
+
 *.bak
 .gitattributes
 .last_checked

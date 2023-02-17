@@ -1,5 +1,6 @@
 # my .gitignore
 *.sh
+accelerator_config.yaml
 
 *.bak
 .gitattributes
